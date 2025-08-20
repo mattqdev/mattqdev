@@ -1,4 +1,13 @@
-<h2 align="left">Hi 👋! My name is MattQ and I'm a Student, from Italy 🇮🇹</h2>
+# Hey!
+
+**I'm MattQ!**
+I am a developer of 4+ years, a student and a Roblox developer! I spend my time creating websites and working on games!
+
+***More information about me below:***
+
+- I'm Italian 🇮🇹.
+- You can contact me on discord (@mattqdev), or by email (mattqdevv@gmail.com).
+- CEO & Founder of [MattQ Studios](https://www.roblox.com/communities/33697512)
 
 ###
 
