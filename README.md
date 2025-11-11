@@ -12,7 +12,7 @@ I am a developer of 4+ years, a student and a Roblox developer! I spend my time 
 ###
 
 ## My Skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,lua,robloxstudio,ts,p5js,vscode,vite,nextjs,py,tailwind,bots,notion,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,lua,robloxstudio,ts,p5js,vscode,vite,nextjs,py,tailwind,bots,php)](https://skillicons.dev)
 
 ## Things I'm learning:
 [![My Skills](https://skillicons.dev/icons?i=p5js,figma,)](https://skillicons.dev)
