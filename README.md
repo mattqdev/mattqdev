@@ -12,16 +12,19 @@ I am a developer of 4+ years, a student and a Roblox developer! I spend my time 
 ###
 
 ## My Skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,lua,robloxstudio,ts,vscode,vite,py,tailwind,bots,php,notion,p5js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,lua,robloxstudio,ts,p5js,vscode,vite,nextjs,py,tailwind,bots,notion,php)](https://skillicons.dev)
 
 ## Things I'm learning:
 [![My Skills](https://skillicons.dev/icons?i=p5js,figma,)](https://skillicons.dev)
 
 <details>
   <summary>My GitHub Stats!</summary>
-  
+
+  ## 📊 Stats
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mattqdev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattqdev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ismaillxxadil&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 </details>
 
 ###
