@@ -1,12 +1,12 @@
 # Hey!
 
 **I'm MattQ!**
-I am a developer with 4+ years of experience on Roblox and 7+ years in web development, a student and a Roblox developer! I spend my time creating websites and working on games!
+I am a web developer, a student and a Roblox developer! I spend my time creating websites and working on games!
 
 ***More information about me below:***
 
 - I'm Italian 🇮🇹.
-- You can contact me on discord (@mattqdev), or by email (mattqdevv@gmail.com).
+- You can contact me on Discord (@mattqdev) or by email (mattqdevv@gmail.com).
 - CEO & Founder of [MattQ Studios](https://www.roblox.com/communities/33697512)
 
 ###
