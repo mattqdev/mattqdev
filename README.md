@@ -6,7 +6,7 @@ I am a web developer, a student and a Roblox developer! I spend my time creating
 ***More information about me below:***
 
 - I'm Italian 🇮🇹.
-- You can contact me on Discord (@mattqdev) or by email (scarcella.matteo@icloud.com).
+- You can contact me on Discord (@mattqdev) or by email (mattqdevv@gmail.com).
 - CEO & Founder of [MattQ Studios](https://www.roblox.com/communities/33697512)
 
 ###
